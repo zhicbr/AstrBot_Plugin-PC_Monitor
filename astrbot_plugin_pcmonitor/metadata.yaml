@@ -1,0 +1,5 @@
+name: astrbot_plugin_pcmonitor
+author: astrbot_developer
+version: 1.0.0
+description: A plugin to monitor and control the host Windows system via HTTP APIs.
+astrbot_version: ">=4.0.0"

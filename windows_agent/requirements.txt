@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+screen-brightness-control
+pycaw
+psutil
+comtypes
+pydantic
