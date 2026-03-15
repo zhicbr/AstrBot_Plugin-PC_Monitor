@@ -44,3 +44,15 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+vendor/
